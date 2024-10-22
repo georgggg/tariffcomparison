@@ -9,10 +9,10 @@ Tariff Comparison demo project. A mockup for calculating the annual cost of seve
   
 ## How to use  
 1. Clone this Github repository:  
-        https://github.com/georgggg/tariffcomparison.git  
+> git clone https://github.com/georgggg/tariffcomparison.git  
 2. Change directory into the './tariffcomparison' folder  
 3. Run the following command to start the app:  
-        dotnet run ./tariffcomparison.csproj  
+> dotnet run ./tariffcomparison.csproj  
 
 The application will start and enable the following URLs on the host environment:  
         
