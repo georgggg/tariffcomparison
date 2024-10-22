@@ -1,6 +1,12 @@
 # Tariff Comparison
 Tariff Comparison demo project. A mockup for calculating the annual cost of several services based on the data gathered from different service providers  
+  
+## Dependencies  
+.NET 8 Runtime or SDK is required to run the app. For installation instructions please refer to the following sources where you can download an installation script:  
+> For Linux: https://learn.microsoft.com/en-us/dotnet/core/install/linux-scripted-manual#scripted-install  
+> For Windows:  https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-install-script#examples  
 
+  
 ## How to use  
 1. Clone this Github repository:  
         https://github.com/georgggg/tariffcomparison.git  
